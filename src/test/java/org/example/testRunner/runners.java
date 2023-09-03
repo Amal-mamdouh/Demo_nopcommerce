@@ -15,7 +15,6 @@ import io.cucumber.testng.CucumberOptions;
         }
 )
 
-
 public class runners extends AbstractTestNGCucumberTests {
 
 }
